@@ -1,3 +1,5 @@
+Use this command to run or create topics and see what messages are produced
+
 C:\kafka\kafka\bin\windows>kafka-storage.bat random-uuid
 2025-05-15T12:57:34.783889800Z main ERROR Reconfiguration failed: No configuration found for 'c387f44' at 'null' in 'null'
 p8oQnVZdSEmj_qfb_a83Lw
